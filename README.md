@@ -5,6 +5,8 @@ DOMAIN : PYTHON PROGRAMMING
 DURATION : 14th MAY to 1st JULY
 MENTOR : SRAVANI GOUNI
 
+![image](https://github.com/Sarthakfr/CODTECH-TASK-1/assets/174301153/ec6a0bb9-056d-4d83-9ff9-c7c56e64c009)
+
 Project Overview: Simple Calculator GUI
 
 1. Introduction:
